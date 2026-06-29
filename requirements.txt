@@ -1,8 +1,6 @@
 streamlit
-ultralytics>=8.0.0
-tensorflow-cpu>=2.15.0
-keras>=3.0.0
-numpy>=1.24.0
-Pillow>=10.0.0
-opencv-python-headless>=4.8.0
-pyyaml>=6.0
+ultralytics
+tensorflow-cpu
+opencv-python-headless
+Pillow
+pyyaml
