@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-tensorflow-cpu
+tensorflow
 opencv-python-headless
 Pillow
 pyyaml
